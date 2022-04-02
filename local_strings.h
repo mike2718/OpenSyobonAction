@@ -1,4 +1,4 @@
-﻿/*
+/*
 MIT License
 Copyright (c) 2019 win32ports
 Permission is hereby granted, free of charge, to any person obtaining a copy
