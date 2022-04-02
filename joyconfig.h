@@ -1,4 +1,4 @@
-﻿//Alter this file as necessary to change joystick controls. Yeah, I know, this is
+//Alter this file as necessary to change joystick controls. Yeah, I know, this is
 //inconvenient.
 
 //Axis numbers, usually 0 and 1, although I have seen others

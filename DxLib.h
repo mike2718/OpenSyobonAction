@@ -1,4 +1,4 @@
-﻿//This file is a reverse engineered "DxLib.h" to the extent that
+//This file is a reverse engineered "DxLib.h" to the extent that
 //Syobon Action uses it. Minor functions are just replaced with SDL
 //counterparts.
 #include <SDL.h>
