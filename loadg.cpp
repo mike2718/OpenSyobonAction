@@ -1,4 +1,4 @@
-#include "DxLib.h"
+﻿#include "DxLib.h"
 
 extern int ma, t, tt;
 extern SDL_Surface *grap[161][8];

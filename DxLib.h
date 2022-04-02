@@ -1,17 +1,19 @@
-//This file is a reverse engineered "DxLib.h" to the extent that
+﻿//This file is a reverse engineered "DxLib.h" to the extent that
 //Syobon Action uses it. Minor functions are just replaced with SDL
 //counterparts.
-#include <SDL/SDL.h>
-#include <SDL/SDL_rotozoom.h>
-#include <SDL/SDL_gfxPrimitives.h>
-#include <SDL/SDL_image.h>
-#include <SDL/SDL_mixer.h>
-#include <SDL/SDL_ttf.h>
+#include <SDL.h>
+#include <SDL_rotozoom.h>
+#include <SDL_gfxPrimitives.h>
+#include <SDL_image.h>
+#include <SDL_mixer.h>
+#include <SDL_ttf.h>
 #include <time.h>
 #include <stdio.h>
 #include <math.h>
+#include <locale.h>
 #include <string>
 
+#include "config.h"
 #include "joyconfig.h"
 
 #define TRUE 1
